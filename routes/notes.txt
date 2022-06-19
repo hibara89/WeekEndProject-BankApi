@@ -1,0 +1,12 @@
+
+Add users--- /users   POST   Add user to the bank
+Depositing--- /balance/deposit PUT  updatig cash
+
+Update credit--- /balance/credit PUT updating credit
+
+Withdraw money--- /balance/withdraw PUT withdrawing money
+
+Transferring money /balance/transfer PUT transfer money
+
+Show details of user--- /users/:id  GET
+Show details of all users--- /users/all GET
